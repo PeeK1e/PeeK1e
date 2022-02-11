@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Student at H_DA and working for Cloudical Deutschland GmBH and trying to become an Cloud Engineer
+I'm a Student at H_DA and working for Cloudical Deutschland GmBH, trying to become an Cloud Engineer.
 
 Most of my Projects are now on my [GitLab](https://gitlab.com/PeeK1e).
 
