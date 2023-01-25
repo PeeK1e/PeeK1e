@@ -2,7 +2,8 @@
 
 I'm a DevOps Engineer Working at Cloudical Deutschland.
 
-Most of my Projects are now on my [GitLab](https://gitlab.com/PeeK1e) but most of them are mirrored here.
+Almost all my Projects are on GitLab (https://gitlab.com/PeeK1e) but also mirrored to GitHub.
+Why? Because the GitLab CI-CD is one of the best in my opinion.
 
 <!--
 **PeeK1e/PeeK1e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
